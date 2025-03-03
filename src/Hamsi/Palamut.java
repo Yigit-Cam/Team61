@@ -1,6 +1,8 @@
 package Hamsi;
 
 public class Palamut {
-    String ad;
-    String cinsi;
+    public static void main(String[] args) {
+
+        System.out.println("Palamut taze geldi");
+    }
 }
